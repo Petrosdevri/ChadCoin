@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/100411628/188503118-3b060363-3a55-4a25-96b3-7ad69fa76cfd.png)
+![alt text]![Uploading ChadCoin Template (1).png…]
 
 
 ChadCoin is an ERC20 token designed using Open Zeppelin libraries, 
